@@ -23,7 +23,7 @@ spec:
           target:
             kind: Namespace
     path: base/cluster/managed/openstack-operator
-    repoURL: https://github.com/cotcaru.org/rhoso-gitops.git
+    repoURL: https://github.com/cotcaru-org/rhoso-gitops.git
     targetRevision: HEAD
   syncPolicy:
     automated: {}
